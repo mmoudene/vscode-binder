@@ -1,6 +1,7 @@
 nano
 htop
 git-core
+apt-utils
 gnupg
 flex
 bison
